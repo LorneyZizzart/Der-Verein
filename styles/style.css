@@ -1,0 +1,67 @@
+.container-modify{
+    width: 100%;
+    padding-top: 103px;
+    padding-bottom: 118px;
+}
+
+.sub-title-js{
+    margin-left: 30%;
+}
+
+.footer-js{
+    width: 100%;
+    padding-top: 86px;
+    background: #1a1a1a;
+}
+
+.post_button-js {
+    width: 188px;
+    height: 53px;
+    background: #ffb606;
+    margin-top: 18px;
+}
+
+.post_button-js a {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 53px;
+}
+.img-circle-js{
+    border-radius: 200px;
+    -moz-border-radius: 200px;
+    -webkit-border-radius: 200px ;
+    }
+.card-directive-js{
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 0 0 0;
+    -webkit-border-radius: 200px ;
+}
+
+.button-read-js{
+    width: 188px;
+    height: 53px;
+    background: #ffb606;
+    margin: 0 0 0 15%;
+}
+.button-read-js a {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 53px;
+}
+
+.course_price a
+{
+	display: block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 53px;
+}
+
+.name-directive-js{
+    margin-top: 2%;
+}
