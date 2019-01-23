@@ -29,6 +29,7 @@
     line-height: 53px;
 }
 .img-circle-js{
+    border: 5px solid #ffffff;
     border-radius: 200px;
     -moz-border-radius: 200px;
     -webkit-border-radius: 200px ;
@@ -64,4 +65,92 @@
 
 .name-directive-js{
     margin-top: 2%;
+    width: 100%;
+    height: 67px;
+    padding-left: 15px;
+}
+.autor-js{
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 20px;
+    margin-top: 7px;
+}
+
+.autor-js span{
+    font-size: 15px;
+    color: #000000;
+}
+
+.flex-sm-row {
+    flex-direction: row!important;
+}
+
+.d-flex {
+    display: flex!important;
+}
+
+.directiva-js{
+    border: 2px solid yellow;
+    padding-top: 6%;
+    background: #ffb606
+}
+
+.title-directiva-js{
+    margin-top: 3%;
+    color: #1a1a1a;
+}
+
+.title-directiva-js h1::before {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 55px;
+    height: 4px;
+    content: '';
+    background: #ffffff;
+}
+
+.title-directiva-js h1 {
+    display: block;
+    padding-top: 24px;
+}
+
+.buttons_container{
+    border: 2px solid #000000 ;
+    background: #1a1a1a;
+}
+
+.button-directiva-js a{
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.event_item {
+    margin-bottom: 56px;
+}
+.geme-js{
+    margin-top: -10%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-bottom: 5%;
+}
+
+.geme-container-js{
+    margin-top: -9%;
+
+}
+
+.event_image img {
+    width: 100%;
+}
+
+.geme-title-js{
+    color: #1a1a1a;
 }
