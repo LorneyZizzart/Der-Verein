@@ -1,3 +1,6 @@
+.p-moodify{
+    font-size: 20px;
+}
 .container-modify{
     width: 100%;
     padding-top: 103px;
@@ -29,7 +32,7 @@
     line-height: 53px;
 }
 .img-circle-js{
-    border: 5px solid #ffffff;
+    border: 2px solid #ffffff77;
     border-radius: 200px;
     -moz-border-radius: 200px;
     -webkit-border-radius: 200px ;
@@ -123,7 +126,7 @@
 }
 
 .buttons_container{
-    border: 2px solid #000000 ;
+    border: 2px solid #1a1a1a;
     background: #1a1a1a;
 }
 
@@ -153,6 +156,27 @@
 
 .geme-title-js{
     color: #1a1a1a;
+}
+
+.carrusel-imagen{
+    background: #000;
+    width: 4%;
+    height: 5%;
+    border-radius: 100%;
+}
+
+.carousel-control-prev{
+    margin: 36% 0 50% 1%;
+}
+
+.carousel-control-next{
+    margin: 36% 1% 50% 0;
+}
+
+.contact_info-modify {
+    margin-top: 37px;
+    padding-left: 46px;
+    margin-bottom: 4%;
 }
 
 .footer_about_text{
